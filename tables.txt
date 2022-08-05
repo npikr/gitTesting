@@ -17,6 +17,8 @@ CREATE TABLE `neon`.`student_laptop` (
 
 ********** THIS IS A CHANGE ***********
 
+
 *** Bug Code deleted ***
+
 
 *** END OF FILE ***

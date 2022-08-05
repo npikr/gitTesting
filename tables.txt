@@ -16,3 +16,6 @@ CREATE TABLE `neon`.`student_laptop` (
   `laptop_lid` INT NULL);
 
 ********** THIS IS A CHANGE ***********
+
+
+*** END OF FILE ***

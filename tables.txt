@@ -1,0 +1,17 @@
+CREATE TABLE `neon`.`student` (
+  `s_id` INT NOT NULL,
+  `fullname` VARCHAR(45) NULL,
+  `marks` VARCHAR(45) NULL,
+  PRIMARY KEY (`s_id`));
+
+
+CREATE TABLE `neon`.`laptop` (
+  `lid` INT NOT NULL,
+  `lname` VARCHAR(45) NULL,
+  PRIMARY KEY (`lid`));
+
+
+CREATE TABLE `neon`.`student_laptop` (
+  `student_rollno` INT NULL,
+  `laptop_lid` INT NULL);
+

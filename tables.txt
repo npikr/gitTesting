@@ -17,5 +17,11 @@ CREATE TABLE `neon`.`student_laptop` (
 
 ********** THIS IS A CHANGE ***********
 
+*** This is a bug code ***
+
+中文鍵盤/中文键盘中文鍵盤/中文键盘
+中文鍵盤/中文键盘中文鍵盤/中文键盘
+
+*************************
 
 *** END OF FILE ***
